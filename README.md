@@ -22,18 +22,31 @@ Welcome to the FastAPI E-Commerce project! This project is a modern e-commerce p
 
 To get started with the FastAPI E-Commerce project, follow these steps:
 
+
+
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/abduvalimurodullayev1/fastapi_e-commerce.git
    cd fastapi_e-commerce
+
+
+
 2.python -m venv venv
+
 
 
 3. **venv\Scripts\activate
 source venv/bin/activate
+
+
+
 4. ** pip install -r requirements.txt
+
+
 5.alembic upgrade head
+
+
 6.uvicorn app.main:app --reload
 
 
