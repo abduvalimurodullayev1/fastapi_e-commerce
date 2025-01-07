@@ -1,4 +1,4 @@
-# 
+
 from sqlalchemy.orm import Session
 from app.models.models import Category
 from app.schemas.categories import CategoryCreate, CategoryUpdate
